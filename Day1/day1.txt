@@ -1,0 +1,29 @@
+1.pwd--shows current directory
+2.date-Command for the date
+3echo print the message
+4.geddit-file we create of steps basically used for the scripts 
+5.ctrl+c-Terminate the process completely
+6.ctrl+z-pause the process which is running the Background
+7.Command + & - will the run the command in the background and make you to work on the other Command
+8.ifconfig--About the IP Address
+9.about the hand notation==="/n","/b" etc....
+10.Man + Command--- Gives the info about the command
+11. Newline in print the echo-echo -n "text"
+12.nslookup website-command which gives ip for the website
+13.which-where is file located
+14.Who-Gives the current user
+15.mkdir-crate a folder with spectifing the folder name
+16.cd-make to enter the need directory or file
+17.cat> filename --create a file and enter the data and click ctrl+d to exit
+18.touch filename --create the file
+19.useradd name---create a new user in linux
+20.passwd username--password need to give to particular user
+21.in redhat8-- we have 2 gui user and 6 cli users
+22.Startx- used to covert the cli into gui
+23.chvt terimalnumber- make to move to particular terimal
+24.exit--is used exit the process
+25.ps-shows all the current process
+26.ls-list all the files in the directory
+27.clear-to clear the terminal
+
+
