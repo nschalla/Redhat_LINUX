@@ -1,2 +1,2 @@
-# 30_Days_of_LINUX
+#Redhat8_linux
 Learning linux from scratch
